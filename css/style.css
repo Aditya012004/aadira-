@@ -129,8 +129,8 @@ a {
 /* Hover ONLY on desktop */
 @media (min-width: 992px) {
     .service-item:hover {
-        background: #afb680;
-        color: #fff;
+        background: #dbdeca;
+        color: #202633;
     }
 
     .service-item:hover i {
